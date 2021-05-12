@@ -74,4 +74,4 @@ Jialin Dong is a Ph.D. student of Environmental ENgineering at the UCI Olivares 
 
 董家麟是加州大学尔湾分校2021级的博士学生。我的研究兴趣是交叉学科，包括环境修复（生物和化学的），数据分析以及机器学习。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/Jialin_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
