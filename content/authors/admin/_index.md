@@ -60,7 +60,7 @@ social:
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: 'media/resume.pdf'
+  link: 'upload/resume.pdf'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,4 +73,4 @@ Jialin Dong is a Ph.D. student of Environmental ENgineering at the UCI Olivares 
 
 董家麟是加州大学尔湾分校2021级的博士学生。我的研究兴趣是交叉学科，包括环境修复（生物和化学的），数据分析以及机器学习。
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "upload/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
