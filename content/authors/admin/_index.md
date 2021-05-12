@@ -70,8 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jialin Dong is a Ph.D. student of Environmental ENgineering at the UCI Olivares Lab. My research interests include Environmental Remediation (Chemical and Biological), Data Analysis and Machine Learning. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+董家麟是加州大学尔湾分校2021级的博士学生。我的研究兴趣是交叉学科，包括环境修复（生物和化学的），数据分析以及机器学习。
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
