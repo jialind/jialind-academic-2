@@ -57,11 +57,10 @@ social:
   link: https://www.linkedin.com/in/jialin-dong/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: media/resume.pdf
+  link: media/Jialin_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
