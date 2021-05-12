@@ -22,7 +22,7 @@ main:
   - name: Experience
     url: '#experience'
     weight: 50  
-  - name: Accomplish&shy;ments
+  - name: Accomplishments
     url: '#Accomplishments'
     weight: 60  
   - name: Contact
