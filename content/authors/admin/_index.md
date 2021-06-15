@@ -18,7 +18,7 @@ bio: My research interests include Water Analysis and Modeling with Data Mining 
 
 # Interests to show in About widget
 interests:
-- Environmental Remediation (Chemical and Biological)
+- Environmental Remediation 
 - Data Analysis
 - Machine Learning
 
