@@ -69,8 +69,8 @@ email: ""
 highlight_name: false
 ---
 
-Jialin Dong is a Ph.D. student of Environmental ENgineering at the UCI Olivares Lab. My research interests include Environmental Remediation (Chemical and Biological), Data Analysis and Machine Learning. 
+Jialin Dong is a Ph.D. student of Environmental ENgineering at the UCI Olivares Lab. My research interests chemical and biological in-situ remediation of sites polluted with ‘forever chemicals’ per- and polyfluorinated alkyl substances (PFAS) with Data Mining Methods, especially Machine Learning.  
 
-董家麟是加州大学尔湾分校2021级的博士学生。我的研究兴趣是交叉学科，包括环境修复（生物和化学的），数据分析以及机器学习。
+董家麟是加州大学尔湾分校2021级的博士学生。我的研究兴趣是使用数据挖掘方法，尤其是机器学习，对被“永久化学品”全氟和多氟烷基物质 (PFAS) 污染的场地进行化学和生物原位修复。
 
 #{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
